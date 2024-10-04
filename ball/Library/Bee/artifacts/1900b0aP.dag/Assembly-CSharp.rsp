@@ -314,6 +314,7 @@
 "Assets/script/CameraControl.cs"
 "Assets/script/PickupControl.cs"
 "Assets/script/PlayerControl.cs"
+"Assets/script/PlayerControl2.cs"
 -langversion:9.0
 
 /deterministic

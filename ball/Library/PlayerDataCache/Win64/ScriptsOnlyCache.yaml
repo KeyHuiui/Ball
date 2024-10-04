@@ -109,37 +109,37 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1582}
+      Script: {instanceID: 1608}
     - Class: 114
-      Script: {instanceID: 2214}
+      Script: {instanceID: 2240}
     - Class: 114
-      Script: {instanceID: 2688}
+      Script: {instanceID: 2714}
     - Class: 114
-      Script: {instanceID: 2900}
+      Script: {instanceID: 2926}
     - Class: 114
-      Script: {instanceID: 3886}
+      Script: {instanceID: 3912}
     - Class: 114
-      Script: {instanceID: 4328}
+      Script: {instanceID: 4354}
     - Class: 114
-      Script: {instanceID: 4604}
+      Script: {instanceID: 4630}
     - Class: 114
-      Script: {instanceID: 5366}
+      Script: {instanceID: 5392}
     - Class: 114
-      Script: {instanceID: 5528}
+      Script: {instanceID: 5986}
     - Class: 114
-      Script: {instanceID: 5962}
+      Script: {instanceID: 6154}
     - Class: 114
-      Script: {instanceID: 6130}
+      Script: {instanceID: 6908}
     - Class: 114
-      Script: {instanceID: 6836}
+      Script: {instanceID: 7658}
     - Class: 114
-      Script: {instanceID: 6886}
+      Script: {instanceID: 7984}
     - Class: 114
-      Script: {instanceID: 7636}
+      Script: {instanceID: 8614}
     - Class: 114
-      Script: {instanceID: 7962}
+      Script: {instanceID: 8622}
     - Class: 114
-      Script: {instanceID: 23854}
+      Script: {instanceID: 8626}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -777,12 +777,6 @@ ScriptsOnlyBuild:
     className: UnityOnBecameInvisibleMessageListener
   - hash:
       serializedVersion: 2
-      Hash: ab00d5186c9f516d6cdcf649dbad3fe8
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: PlayerControll
-  - hash:
-      serializedVersion: 2
       Hash: 5874b789cd9832847c61ebfa803213af
     assemblyName: UnityEngine.UI
     namespaceName: UnityEngine.UIElements
@@ -925,12 +919,6 @@ ScriptsOnlyBuild:
     assemblyName: Unity.InputSystem
     namespaceName: 
     className: DownloadableSample
-  - hash:
-      serializedVersion: 2
-      Hash: 3db232fcac29ea8bcf19098f048d9118
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: CameraControl
   - hash:
       serializedVersion: 2
       Hash: f669be52680c88846b2093fd41d1e06e
@@ -1173,11 +1161,29 @@ ScriptsOnlyBuild:
     className: UnityOnSliderValueChangedMessageListener
   - hash:
       serializedVersion: 2
+      Hash: 3db232fcac29ea8bcf19098f048d9118
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: CameraControl
+  - hash:
+      serializedVersion: 2
+      Hash: ae6a3254ec69bdb61e8c7134acc88316
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: PlayerControl2
+  - hash:
+      serializedVersion: 2
       Hash: 3ac996987bcd275fb56f08d24c55c597
     assemblyName: Assembly-CSharp
     namespaceName: 
     className: PickupControll
+  - hash:
+      serializedVersion: 2
+      Hash: ab00d5186c9f516d6cdcf649dbad3fe8
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: PlayerControll
   platform: 19
   scenePathNames:
   - Assets/Scenes/Minigame.unity
-  playerPath: C:/Builds/ball.exe
+  playerPath: D:/MyProgram/DoneGame/ball.exe
